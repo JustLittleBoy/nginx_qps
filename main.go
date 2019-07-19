@@ -1,4 +1,4 @@
-package main // import "stubstatus"
+package main // import "nginx_qps"
 
 import (
 	"bufio"
