@@ -1,4 +1,4 @@
-package main // import "nginx_qps"
+package main
 
 import (
 	"bufio"
@@ -25,7 +25,7 @@ func main() {
 	app.Version = "0.0.1"
 	app.Authors = []cli.Author{
 		{
-			Name:  "wangchao",
+			Name:  "xiaoban",
 			Email: "wangchaoxiaoban@gmail.com",
 		},
 	}
